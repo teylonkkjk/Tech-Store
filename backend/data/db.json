@@ -1,0 +1,106 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook Gamer Storm i7 16GB RTX 4060",
+      "category": "Notebooks",
+      "price": 6499.9,
+      "stock": 7,
+      "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=600&q=80",
+      "description": "Processador Intel Core i7 de 13ª geração, 16GB RAM DDR5, SSD NVMe 1TB e tela 165Hz."
+    },
+    {
+      "id": 2,
+      "name": "Teclado Mecânico RGB Switch Red Wireless",
+      "category": "Periféricos",
+      "price": 389.9,
+      "stock": 15,
+      "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=600&q=80",
+      "description": "Layout compacto 75%, conexão tri-mode (Bluetooth, 2.4GHz e USB-C) e keycaps PBT."
+    },
+    {
+      "id": 3,
+      "name": "Monitor Ultrawide 29\" IPS 100Hz FHD",
+      "category": "Monitores",
+      "price": 1199,
+      "stock": 6,
+      "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=600&q=80",
+      "description": "Proporção 21:9 ideal para produtividade e programação, sRGB 99% e HDR10."
+    },
+    {
+      "id": 4,
+      "name": "Mouse Gamer Ultraleve 26000 DPI Sem Fio",
+      "category": "Periféricos",
+      "price": 299.9,
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=600&q=80",
+      "description": "Sensor óptico de alta precisão, apenas 58g e bateria com duração de até 70 horas."
+    },
+    {
+      "id": 5,
+      "name": "Headset Studio Surround 7.1 Cancelamento de Ruído",
+      "category": "Áudio",
+      "price": 459,
+      "stock": 12,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80",
+      "description": "Drivers de 50mm em neodímio, microfone destacável e almofadas em espuma viscoelástica."
+    },
+    {
+      "id": 6,
+      "name": "SSD NVMe M.2 PCIe 4.0 2TB 7000MB/s",
+      "category": "Hardware",
+      "price": 899.9,
+      "stock": 10,
+      "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=600&q=80",
+      "description": "Leitura ultrarrápida de 7000MB/s com dissipador de calor em alumínio integrado."
+    }
+  ],
+  "orders": [
+    {
+      "id": 1795028396589,
+      "customerName": "Teylon ",
+      "customerEmail": "oteylon84@gmail.com",
+      "items": [
+        {
+          "productId": 1,
+          "name": "Notebook Gamer Storm i7 16GB RTX 4060",
+          "price": 6499.9,
+          "quantity": 1
+        }
+      ],
+      "total": 6499.9,
+      "createdAt": "2026-11-18T18:59:56.589Z"
+    },
+    {
+      "id": 1794765980786,
+      "customerName": "Administrador TechStore",
+      "customerEmail": "admin@techstore.com",
+      "items": [
+        {
+          "productId": 4,
+          "name": "Mouse Gamer Ultraleve 26000 DPI Sem Fio",
+          "price": 299.9,
+          "quantity": 1
+        }
+      ],
+      "total": 299.9,
+      "createdAt": "2026-11-15T18:06:20.786Z"
+    },
+    {
+      "id": 1794765601412,
+      "customerName": "Teylon Carvalho Oliveira",
+      "customerEmail": "oteylon84@gmail.com",
+      "items": [
+        {
+          "productId": 4,
+          "name": "Mouse Gamer Ultraleve 26000 DPI Sem Fio",
+          "price": 299.9,
+          "quantity": 1
+        }
+      ],
+      "total": 299.9,
+      "createdAt": "2026-11-15T18:00:01.412Z"
+    }
+  ],
+  "contacts": []
+}
