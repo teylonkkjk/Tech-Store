@@ -154,3 +154,4 @@ npm run dev
 | **Vanderley** | `CategoryFilter.tsx` e `ProductCard.tsx` | Página de Catálogo (`Catalog.tsx`) e Controle de Estoque[cite: 1, 4] |
 | **Andre** | `CartItemRow.tsx` e `OrderSummary.tsx` | Página de Carrinho (`Cart.tsx`), Persistência e Checkout[cite: 1, 5] |
 | **Gustavo** | `StatCard.tsx` e `ProductFormModal.tsx` | Páginas `Login.tsx`, `Dashboard.tsx` e API REST (`server.ts`)[cite: 1, 6] |
+link apresentação yotube https://youtu.be/l-xyiuUCqf0?is=HOPu1PBydKW2kNo0
